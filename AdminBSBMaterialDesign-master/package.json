@@ -1,0 +1,22 @@
+{
+  "name": "asm",
+  "version": "1.0.0",
+  "description": "AdminBSB - Material Design ======================= [![npm version](https://img.shields.io/npm/v/adminbsb-materialdesign.svg)](https://www.npmjs.com/package/adminbsb-materialdesign) ![Bower version](https://img.shields.io/bower/v/adminbsb-materialdesign.svg)",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@handlebars/allow-prototype-access": "^1.0.3",
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "express-handlebars": "^5.1.0",
+    "handlebars": "^4.7.6",
+    "mongoose": "^5.9.27",
+    "multer": "^1.4.2",
+    "nodemon": "^2.0.4"
+  }
+}
